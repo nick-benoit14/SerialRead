@@ -3,6 +3,7 @@
   , "version": "0.0.1"
   , "private": true
   , "dependencies": {
-     "serialport":"2.0.1"
-  }
+     "serialport":"2.0.1",
+     "prompt":"0.2.14"
+ }
 }
